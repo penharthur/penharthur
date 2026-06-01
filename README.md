@@ -9,9 +9,7 @@
 [![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:artfbpenha@outlook.com)
 [![Location](https://img.shields.io/badge/Santos,_SP-Brasil-009C3B?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-</div>
-
----
+</div> 
 
 ## 👨‍💻 About Me
 
@@ -25,8 +23,6 @@ const arthur = {
   currentlyAt: "Unimed Santos",
 };
 ```
-
-> Desenvolvedor Full Stack com 3 anos de atuação em sistemas críticos — de interfaces reativas até pipelines de deploy automatizado com zero downtime.
 
 ---
 
@@ -84,7 +80,7 @@ const arthur = {
     <td width="50%">
       <h3 align="center">💰 Orca Flow</h3>
       <div align="center">
-        <a href="https://github.com/penharthur/orca-flow">
+        <a href="https://github.com/penharthur/OrcaFlow">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </div>
