@@ -30,6 +30,18 @@ const arthur = {
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/penharthur/penharthur/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/penharthur/penharthur/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/penharthur/penharthur/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -114,19 +126,7 @@ const arthur = {
   <img src="https://streak-stats.demolab.com/?user=penharthur&theme=tokyonight&hide_border=true" />
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/penharthur/penharthur/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/penharthur/penharthur/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/penharthur/penharthur/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
----
+--- 
 
 ## 💼 Experience
 
