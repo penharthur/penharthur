@@ -13,7 +13,7 @@
 #### *Building reactive interfaces & scalable systems*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arthur-penha)
-[![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:artfbpenha@outlook.com)
+[![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:penharthur@outlook.com)
 [![Location](https://img.shields.io/badge/Santos,_SP-Brasil-009C3B?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
@@ -79,7 +79,7 @@ const arthur = {
     <td width="50%">
       <h3 align="center">💰 Orca Flow</h3>
       <div align="center">
-        <a href="https://github.com/artfbpenha/orca-flow">
+        <a href="https://github.com/penharthur/orca-flow">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </div>
@@ -96,7 +96,7 @@ const arthur = {
     <td width="50%">
       <h3 align="center">📈 Moneasy Invest</h3>
       <div align="center">
-        <a href="https://github.com/artfbpenha/moneasy-invest">
+        <a href="https://github.com/penharthur/moneasy-invest">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </div>
@@ -119,13 +119,13 @@ const arthur = {
 
 <div align="center">
 
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=artfbpenha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artfbpenha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=penharthur&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=penharthur&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=artfbpenha&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=penharthur&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -149,6 +149,6 @@ const arthur = {
 
 ### 💬 *"Code quality is not negotiable — it's the foundation."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=artfbpenha&color=00b4d8&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=penharthur&color=00b4d8&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
