@@ -13,7 +13,7 @@
 #### *Building reactive interfaces & scalable systems*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arthur-penha)
-[![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:penharthur@outlook.com)
+[![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:artfbpenha@outlook.com)
 [![Location](https://img.shields.io/badge/Santos,_SP-Brasil-009C3B?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
@@ -115,39 +115,35 @@ const arthur = {
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Experience
 
-<div align="center">
+```
+▸ Unimed Santos          Mar/2024 – hoje      Full Stack Developer
+  ├── Angular 14+ · Vue 3 · TypeScript · Ionic
+  ├── SQL tuning com +200k registros (Oracle / MySQL / SQL Server)
+  ├── CI/CD  →  GitLab + Jenkins + Docker  →  zero downtime
+  └── Automação de rotinas: −85% tempo operacional
 
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=penharthur&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=penharthur&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=penharthur&theme=tokyonight&hide_border=true" />
-</div>
+▸ Creath Digital         Set/2022 – Mar/2024  Full Stack Developer
+  ├── Angular · TypeScript · REST APIs em tempo real
+  ├── Arquitetura de componentes escaláveis e testáveis
+  └── Scrum / Kanban · mentoria e code-review
+```
 
 ---
 
-## 💼 Experience Highlights
+## 🎓 Education
 
 ```
-📍 Unimed Santos     [Mar/2024 – Presente]   Full Stack Developer
-   └─ Angular + TypeScript · REST APIs · SQL Optimization (200k+ records)
-   └─ CI/CD Pipeline (GitLab + Jenkins + Docker) · Zero Downtime Deploy
-   └─ 85% reduction in operational time through automation
-
-📍 Creath Digital    [Set/2022 – Mar/2024]   Full Stack Developer
-   └─ Angular · TypeScript · Real-time API integrations
-   └─ Component architecture · Scrum/Kanban · Clean Code
+▸ Bacharelado em Sistemas de Informação   Universidade Santa Cecília  2021–2024
+▸ Full Stack Node                         Digital House               2021–2022
 ```
 
 ---
 
 <div align="center">
 
-### 💬 *"Code quality is not negotiable — it's the foundation."*
+*Santos, SP — aberto a oportunidades remotas e híbridas*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=penharthur&color=00b4d8&style=for-the-badge&label=PROFILE+VIEWS)
 
